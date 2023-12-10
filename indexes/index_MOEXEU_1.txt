@@ -1,0 +1,22 @@
+{
+    "name": "MOEXEU",
+    "portfolio": {
+        "MOEX.IRAO": 16.74,
+        "MOEX.FEES": 14.89,
+        "MOEX.MSNG": 11.48,
+        "MOEX.UPRO": 10.46,
+        "MOEX.HYDR": 9.41,
+        "MOEX.LSNG": 7.46,
+        "MOEX.OGKB": 4.15,
+        "MOEX.MRKP": 4.07,
+        "MOEX.MSRS": 3.69,
+        "MOEX.TGKA": 3.43,
+        "MOEX.ELFV": 3.03,
+        "MOEX.MRKC": 2.95,
+        "MOEX.MRKU": 2.43,
+        "MOEX.DVEC": 1.72,
+        "MOEX.TGKB": 1.72,
+        "MOEX.MRKV": 1.21,
+        "MOEX.MRKZ": 1.14
+    }
+}

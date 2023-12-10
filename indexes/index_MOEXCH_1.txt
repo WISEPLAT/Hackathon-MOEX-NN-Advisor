@@ -1,0 +1,10 @@
+{
+    "name": "MOEXCH",
+    "portfolio": {
+        "MOEX.KAZT": 28.05,
+        "MOEX.PHOR": 25.42,
+        "MOEX.AKRN": 15.51,
+        "MOEX.KZOS": 1.49,
+        "MOEX.NKNC": 5.82
+    }
+}

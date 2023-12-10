@@ -1,0 +1,15 @@
+{
+    "name": "MOEXFN",
+    "portfolio": {
+        "MOEX.MOEX": 18.1,
+        "MOEX.CBOM": 16.31,
+        "MOEX.TCSG": 14.57,
+        "MOEX.SBER": 2.64,
+        "MOEX.VTBR": 13.14,
+        "MOEX.QIWI": 7.07,
+        "MOEX.BSPB": 6.97,
+        "MOEX.RENI": 4.46,
+        "MOEX.SFIN": 2.34,
+        "MOEX.SPBE": 0.69
+    }
+}

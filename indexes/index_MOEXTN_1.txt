@@ -1,0 +1,11 @@
+{
+    "name": "MOEXTN",
+    "portfolio": {
+        "MOEX.FLOT": 27.35,
+        "MOEX.AFLT": 24.24,
+        "MOEX.FESH": 15.84,
+        "MOEX.NMTP": 15.73,
+        "MOEX.GLTR": 10.05,
+        "MOEX.NKHP": 6.79
+    }
+}

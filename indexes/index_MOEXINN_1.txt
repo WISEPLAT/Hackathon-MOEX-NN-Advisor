@@ -1,0 +1,16 @@
+{
+    "name": "MOEXINN",
+    "portfolio": {
+        "MOEX.POSI": 25.55,
+        "MOEX.UNAC": 25.32,
+        "MOEX.QIWI": 23.83,
+        "MOEX.HHR": 15.74,
+        "MOEX.WUSH": 3.69,
+        "MOEX.ISKJ": 2.88,
+        "MOEX.LIFE": 0.91,
+        "MOEX.GECO": 0.85,
+        "MOEX.NAUK": 0.6,
+        "MOEX.NSVZ": 0.36,
+        "MOEX.GEMA": 0.27
+    }
+}

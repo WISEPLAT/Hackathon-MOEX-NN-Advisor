@@ -1,0 +1,20 @@
+{
+    "name": "MOEXCN",
+    "portfolio": {
+        "MOEX.AGRO": 18.75,
+        "MOEX.MGNT": 16.12,
+        "MOEX.FIVE": 14.69,
+        "MOEX.LENT": 8.95,
+        "MOEX.GEMC": 7.36,
+        "MOEX.AQUA": 6.84,
+        "MOEX.FIXP": 5.53,
+        "MOEX.APTK": 4.84,
+        "MOEX.MDMG": 4.3,
+        "MOEX.MVID": 3.45,
+        "MOEX.BELU": 3.1,
+        "MOEX.SVAV": 2.45,
+        "MOEX.WUSH": 1.95,
+        "MOEX.ISKJ": 1.22,
+        "MOEX.OKEY": 0.47
+    }
+}

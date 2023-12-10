@@ -1,0 +1,18 @@
+{
+    "name": "MOEXMM",
+    "portfolio": {
+        "MOEX.GMKN": 16.3,
+        "MOEX.PLZL": 15.09,
+        "MOEX.RUAL": 11.69,
+        "MOEX.CHMF": 11.41,
+        "MOEX.NLMK": 10.32,
+        "MOEX.MAGN": 7.83,
+        "MOEX.ALRS": 7.43,
+        "MOEX.ENPG": 4.79,
+        "MOEX.MTLR": 2.7,
+        "MOEX.VSMO": 3.67,
+        "MOEX.SELG": 2.11,
+        "MOEX.POLY": 1.55,
+        "MOEX.RASP": 1.39
+    }
+}

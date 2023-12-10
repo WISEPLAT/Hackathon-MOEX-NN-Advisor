@@ -1,0 +1,14 @@
+{
+    "name": "MOEXOG",
+    "portfolio": {
+        "MOEX.LKOH": 15.56,
+        "MOEX.ROSN": 15.17,
+        "MOEX.GAZP": 13.53,
+        "MOEX.TATN": 2.5,
+        "MOEX.NVTK": 13.1,
+        "MOEX.SNGS": 7.12,
+        "MOEX.TRNFP": 5.44,
+        "MOEX.BANE": 4.26,
+        "MOEX.RNFT": 1.12
+    }
+}

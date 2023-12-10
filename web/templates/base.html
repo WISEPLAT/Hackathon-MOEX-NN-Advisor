@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Рекомендательный сервис для Инвесторов">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Рекомендательный сервис для Инвесторов</title>
+
+<!--    <link href="/font-face.css" rel="stylesheet" type="text/css" />-->
+    <link href="style.css" rel="stylesheet">
+    <script src="js/d3.v5.min.js"></script>
+
+    {% block css_code %} {% endblock %}
+    <!--    <script src="https://unpkg.com/panzoom@7.0.2/dist/panzoom.min.js"></script>-->
+</head>
+<body>
+    <div id="chart"></div>
+
+    {% block content %} {% endblock %}
+
+    <script src="js/index3.js"></script>
+    <script src="js/app3.js"></script>
+
+    <script src="js/jquery-1.11.1.min.js"></script>
+    <script src="js/refresh_dashboard.js"></script>
+
+</body>

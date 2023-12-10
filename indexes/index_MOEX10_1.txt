@@ -1,0 +1,15 @@
+{
+    "name": "MOEX10",
+    "portfolio": {
+        "MOEX.SNGS": 11.28,
+        "MOEX.MGNT": 11.01,
+        "MOEX.SBER": 10.54,
+        "MOEX.LKOH": 10.54,
+        "MOEX.ROSN": 10.49,
+        "MOEX.YNDX": 10.0,
+        "MOEX.VTBR": 9.23,
+        "MOEX.GAZP": 9.19,
+        "MOEX.MTSS": 9.0,
+        "MOEX.ALRS": 8.71
+    }
+}

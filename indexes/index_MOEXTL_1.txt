@@ -1,0 +1,9 @@
+{
+    "name": "MOEXTL",
+    "portfolio": {
+        "MOEX.MTSS": 37.04,
+        "MOEX.RTKM": 7.19,
+        "MOEX.MGTS": 15.74,
+        "MOEX.TTLK": 4.7
+    }
+}
