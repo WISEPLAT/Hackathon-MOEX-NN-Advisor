@@ -101,7 +101,7 @@ https://github.com/WISEPLAT/Hackathon-MOEX-NN-Advisor
 Для работы торгового советника с использованием нейросетей, есть некоторые библиотеки, которые вам необходимо установить,
 их можно установить такой командой:
 ```shell
-pip install numpy pandas "tensorflow<2.11" backtrader moexalgo
+pip install numpy pandas "tensorflow<2.11" backtrader moexalgo flask
 ```
 
 или так:

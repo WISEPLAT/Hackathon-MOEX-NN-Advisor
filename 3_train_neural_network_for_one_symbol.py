@@ -55,7 +55,7 @@ from keras.models import load_model
 from my_config.trade_config import Config  # Файл конфигурации
 
 # pip install tf-nightly - для блокнота
-# pip install numpy pandas "tensorflow<2.11" backtrader moexalgo
+# pip install numpy pandas "tensorflow<2.11" backtrader moexalgo flask
 # pip install "tensorflow<2.11" - to enable GPU without VM
 print("Num GPUs Available: ", len(config.list_physical_devices('GPU')))
 
