@@ -66,7 +66,7 @@
 ```6_live_update_adviser_data.py```
 - online визуализация дашборда предсказаний нейросетью для акций из индекса (с автообновлением)
 ```7_run_adviser_for_investors.py```
-- записано обучающее видео как запускать и работать с этим кодом, выложенное [на YouTube](https://youtu.be/yrQFqvc4fk0 ) и [на RuTube](https://rutube.ru/video/private/1255dfe65f4db8736b894cae72b14c45/?p=oOFSDPr1El6lq586tIm2qg )
+- записано обучающее видео как запускать и работать с этим кодом, выложенное [на YouTube](https://youtu.be/3y05ihswXeo ) и [на RuTube](https://rutube.ru/video/private/b910124d9ed7bbe3b4bfda3c827b0b0a/?p=Mtp8vRUBr4WSzcD-Vh71tQ )
 
 то, это позволит всем, кто только начинает свой путь по применению нейросетей для аналитики, использовать этот код, 
 как стартовый шаблон с последующим его усовершенствованием и допиливанием)) 
@@ -119,7 +119,7 @@ git clone https://github.com/WISEPLAT/backtrader_moexalgo
 ![alt text](https://raw.githubusercontent.com/WISEPLAT/imgs_for_repos/master/hackathon_moex_nn_advisor.jpg )
 
 Теперь можно запускать и смотреть, а предварительно лучше посмотреть видео по работе с этим кодом
-, выложенное [на YouTube](https://youtu.be/yrQFqvc4fk0 ) и [на RuTube](https://rutube.ru/video/private/1255dfe65f4db8736b894cae72b14c45/?p=oOFSDPr1El6lq586tIm2qg )
+, выложенное [на YouTube](https://youtu.be/3y05ihswXeo ) и [на RuTube](https://rutube.ru/video/private/b910124d9ed7bbe3b4bfda3c827b0b0a/?p=Mtp8vRUBr4WSzcD-Vh71tQ )
 
 ### Внимание
 Некоторые файлы содержат строку:
